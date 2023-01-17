@@ -3,4 +3,5 @@
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "ATMEGA32U4-AU")(type "KiCad")(uri "${KIPRJMOD}/ATMEGA32U4-AU/ATMEGA32U4-AU.kicad_sym")(options "")(descr ""))
+  (lib (name "SW_SKQG")(type "KiCad")(uri "${KIPRJMOD}/local/SW_SKQG.kicad_sym")(options "")(descr ""))
 )
